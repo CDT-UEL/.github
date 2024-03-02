@@ -1,1 +1,1 @@
-# .github
+# University of East London - CDT
